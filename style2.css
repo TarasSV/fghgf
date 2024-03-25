@@ -1,0 +1,55 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+.backg{
+	position:absolute;
+	width:100%;
+	height:100%;
+}
+.wolf{
+	position:fixed;
+	top:2%;
+	width:30%;
+	height:25%;
+}
+.hud{
+	position:fixed;
+	top:4%;
+	left:72%;
+	width:25%;
+	height:30%;
+}
+textarea{
+	position:fixed;
+	top:73%;
+	left:2%;
+	background:none;
+	resize:none;
+	color:#b6b6b6;
+	font-family:#b6b6b6;
+	font-size:14px;
+	width:30%;
+	height:15%;
+	border:5px double #757223;
+}
+input{
+	position:fixed;
+	top:89%;
+	left:2%;
+	width:30%;
+	height:3%;
+	border:5px double #757223;
+}
+button{
+	position:fixed;
+	top:94%;
+	left:2%;
+	height:5%;
+	border:5px double #black;
+	background:black;
+	color:#b6b6b6;
+}
+button:hover{
+	border:#b6b6b6;
+}
